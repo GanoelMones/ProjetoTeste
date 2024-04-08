@@ -1,5 +1,6 @@
 body {
-    background-color: #ccc;
+    background-color: #16161b;
     color: white;
     text-shadow: 0px 5px 10px #fff;
+    display: flex;
 }
